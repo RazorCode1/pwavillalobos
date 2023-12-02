@@ -14,8 +14,7 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-      ],
-    "background_color": "#ffffff",
+    ],
     "splash_screen": {
         "show_duration": 0,
         "show_dialog": true,
