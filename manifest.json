@@ -15,6 +15,10 @@
             "purpose": "maskable"
         }
       ],
-    "splash_pages": null // Specify the URL or an array of URLs for custom splash screens
+    "background_color": "#ffffff",
+    "splash_screen": {
+        "show_duration": 0,
+        "show_dialog": true,
+        "full_screen": true
 }
 
