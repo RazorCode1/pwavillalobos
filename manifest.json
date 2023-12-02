@@ -12,7 +12,7 @@
             "src": "pwa.png",
             "sizes": "256x256",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "maskable"
         }
       ],
     "splash_pages": null // Specify the URL or an array of URLs for custom splash screens
