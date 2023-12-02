@@ -14,6 +14,7 @@
             "type": "image/png",
             "purpose": "any maskable"
         }
-    ]
+      ],
+    "splash_pages": null // Specify the URL or an array of URLs for custom splash screens
 }
 
