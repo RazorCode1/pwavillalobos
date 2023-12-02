@@ -11,8 +11,9 @@
         {
             "src": "pwa.png",
             "sizes": "256x256",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any maskable"
         }
     ]
 }
+
