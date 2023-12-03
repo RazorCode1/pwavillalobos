@@ -1,8 +1,8 @@
 {
-    "name": "PWA Installable Website",
-    "short_name": "PWA Website",
-    "description": "A simple PWA installable website",
-    "author": "Najm Ajmal",
+    "name": "PWA daniel offline",
+    "short_name": "offline",
+    "description": "Una prueba de una PWA",
+    "author": "daniel villalobos",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
